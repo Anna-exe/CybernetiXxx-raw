@@ -16,15 +16,16 @@ body{
 
 /* Header */
 header{
-
+    background-color: rgba(70, 70, 70, 0.5);
 }
 /* Main */
 main{
 /* Push footer down by making main element take a surplus space */
-flex: 1 0 auto;
+    flex: 1 0 auto;
+    background-color: rgba(70, 70, 70, 0.5);
 }
 
 /* Footer */
 footer{
-
+    background-color: rgba(70, 70, 70, 0.5);
 }
