@@ -1,4 +1,8 @@
 body{
     background-color: black;
+    background-image: url(../images/cyborg-girl.jpg);
     color:#1DF500;
+    background-attachment: fixed;
+    background-position: right top;
+    background-size: cover;
 }
