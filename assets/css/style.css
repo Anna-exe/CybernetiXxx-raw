@@ -5,4 +5,22 @@ body{
     background-attachment: fixed;
     background-position: right top;
     background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+header{
+
+}
+/* Main */
+main{
+/* Push footer down by making main element take a surplus space */
+flex: 1 0 auto;
+}
+
+/* Footer */
+footer{
+
 }
