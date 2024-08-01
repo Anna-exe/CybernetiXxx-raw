@@ -11,7 +11,11 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: 'Roboto-Mono', monospace;
+    font-family: 'Cutive-Mono', monospace;
+}
+
+h1, h2, h3{
+    font-family: 'Roboto Mono', monospace;
 }
 
 /* Header */
