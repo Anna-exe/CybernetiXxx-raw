@@ -1,3 +1,6 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
 body{
     background-color: black;
     background-image: url(../images/cyber-girl.jpg);
@@ -8,6 +11,7 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'Roboto-Mono', monospace;
 }
 
 /* Header */
