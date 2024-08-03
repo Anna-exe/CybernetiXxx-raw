@@ -68,9 +68,10 @@ hr{
 main{
 /* Push footer down by making main element take a surplus space */
     flex: 1 0 auto;
+    padding: 30px;
 }
 
 /* Footer */
 footer{
-
+    padding: 30px;
 }
