@@ -16,6 +16,7 @@ body{
 
 h1, h2, h3{
     font-family: 'Kode Mono', monospace;
+    text-shadow: #1df500 0px 0px 8px;
 }
 
 .section {
@@ -32,6 +33,10 @@ header{
 header a{
     text-decoration: none;
     color: inherit;
+}
+
+#logo{
+    color:linen;
 }
 
 hr{
