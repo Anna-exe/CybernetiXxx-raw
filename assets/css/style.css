@@ -20,11 +20,12 @@ h1, h2, h3{
 
 .section {
     margin: 10px;
+    background-color: rgb(70 70 70 / 33%);
+    border-radius: 20px;
 }
 
 /* Header */
 header{
-    background-color: rgba(70, 70, 70, 0.5);
     text-align: center;
 }
 
@@ -58,10 +59,9 @@ header a{
 main{
 /* Push footer down by making main element take a surplus space */
     flex: 1 0 auto;
-    background-color: rgba(70, 70, 70, 0.5);
 }
 
 /* Footer */
 footer{
-    background-color: rgba(70, 70, 70, 0.5);
+
 }
