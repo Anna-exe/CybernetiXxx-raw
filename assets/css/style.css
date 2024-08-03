@@ -1,6 +1,5 @@
 /* Google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Kode+Mono:wght@400..700&display=swap');
 body{
     background-color: black;
     background-image: url(../images/cyber-girl.jpg);
@@ -12,10 +11,11 @@ body{
     display: flex;
     flex-direction: column;
     font-family: 'Cutive Mono', monospace;
+    margin: 20px 5px 20px 5px;
 }
 
 h1, h2, h3{
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Kode Mono', monospace;
 }
 
 .section {
